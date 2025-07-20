@@ -6,6 +6,7 @@ My LeetCode
 ## Math
 |  |
 | ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/GuiRodri06/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GuiRodri06/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
