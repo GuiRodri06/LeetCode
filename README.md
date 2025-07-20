@@ -12,4 +12,12 @@ My LeetCode
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/GuiRodri06/LeetCode/tree/master/3379-score-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
