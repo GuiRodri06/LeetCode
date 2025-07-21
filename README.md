@@ -7,6 +7,7 @@ My LeetCode
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/GuiRodri06/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/GuiRodri06/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GuiRodri06/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## String
@@ -30,4 +31,8 @@ My LeetCode
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/GuiRodri06/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
