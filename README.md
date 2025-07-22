@@ -14,6 +14,7 @@ My LeetCode
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/GuiRodri06/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ My LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
