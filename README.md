@@ -15,12 +15,14 @@ My LeetCode
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/GuiRodri06/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Backtracking
 |  |
@@ -39,4 +41,8 @@ My LeetCode
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/GuiRodri06/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
