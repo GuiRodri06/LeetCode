@@ -20,6 +20,7 @@ My LeetCode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -31,6 +32,7 @@ My LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
