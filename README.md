@@ -22,6 +22,7 @@ My LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -34,6 +35,7 @@ My LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -47,4 +49,12 @@ My LeetCode
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
