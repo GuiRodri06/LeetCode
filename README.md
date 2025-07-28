@@ -15,6 +15,7 @@ My LeetCode
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/GuiRodri06/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/GuiRodri06/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/GuiRodri06/LeetCode/tree/master/3379-score-of-a-string) |
