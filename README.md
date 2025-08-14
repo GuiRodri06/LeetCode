@@ -30,6 +30,7 @@ My LeetCode
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GuiRodri06/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/GuiRodri06/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/GuiRodri06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GuiRodri06/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -55,6 +56,7 @@ My LeetCode
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/GuiRodri06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
