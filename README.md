@@ -6,6 +6,7 @@ My LeetCode
 ## Math
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/GuiRodri06/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/GuiRodri06/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -70,4 +71,8 @@ My LeetCode
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/GuiRodri06/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
