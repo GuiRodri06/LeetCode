@@ -8,6 +8,7 @@ My LeetCode
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/GuiRodri06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/GuiRodri06/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/GuiRodri06/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/GuiRodri06/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -57,6 +58,7 @@ My LeetCode
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/GuiRodri06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/GuiRodri06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
