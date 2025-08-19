@@ -36,6 +36,7 @@ My LeetCode
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GuiRodri06/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3429-special-array-i](https://github.com/GuiRodri06/LeetCode/tree/master/3429-special-array-i) |
 ## Backtracking
 |  |
 | ------- |
