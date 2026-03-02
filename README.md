@@ -28,6 +28,7 @@ My LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
+| [0136-single-number](https://github.com/GuiRodri06/LeetCode/tree/master/0136-single-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GuiRodri06/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/GuiRodri06/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -77,5 +78,6 @@ My LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/GuiRodri06/LeetCode/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
