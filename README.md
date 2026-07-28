@@ -6,6 +6,7 @@ My LeetCode
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/GuiRodri06/LeetCode/tree/master/0202-happy-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/GuiRodri06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -47,6 +48,7 @@ My LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/GuiRodri06/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/GuiRodri06/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -83,4 +85,8 @@ My LeetCode
 | ------- |
 | [0136-single-number](https://github.com/GuiRodri06/LeetCode/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/GuiRodri06/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
