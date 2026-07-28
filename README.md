@@ -18,6 +18,7 @@ My LeetCode
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/GuiRodri06/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/GuiRodri06/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -46,6 +47,7 @@ My LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/GuiRodri06/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -66,6 +68,7 @@ My LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/GuiRodri06/LeetCode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
