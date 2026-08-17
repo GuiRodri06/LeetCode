@@ -20,6 +20,7 @@ My LeetCode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/GuiRodri06/LeetCode/tree/master/0242-valid-anagram) |
+| [0551-student-attendance-record-i](https://github.com/GuiRodri06/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/GuiRodri06/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
