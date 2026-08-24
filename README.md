@@ -37,6 +37,7 @@ My LeetCode
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GuiRodri06/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/GuiRodri06/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/GuiRodri06/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/GuiRodri06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -56,11 +57,13 @@ My LeetCode
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/GuiRodri06/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/GuiRodri06/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
