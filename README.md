@@ -16,6 +16,7 @@ My LeetCode
 | [2608-count-the-digits-that-divide-a-number](https://github.com/GuiRodri06/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/GuiRodri06/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GuiRodri06/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My LeetCode
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GuiRodri06/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/GuiRodri06/LeetCode/tree/master/3429-special-array-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,10 +56,12 @@ My LeetCode
 | [0782-jewels-and-stones](https://github.com/GuiRodri06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
 | ------- |
