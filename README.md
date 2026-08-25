@@ -93,6 +93,7 @@ My LeetCode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GuiRodri06/LeetCode/tree/master/0136-single-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/GuiRodri06/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GuiRodri06/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
