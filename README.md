@@ -27,6 +27,7 @@ My LeetCode
 | [1205-defanging-an-ip-address](https://github.com/GuiRodri06/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/GuiRodri06/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3295-report-spam-message](https://github.com/GuiRodri06/LeetCode/tree/master/3295-report-spam-message) |
 | [3379-score-of-a-string](https://github.com/GuiRodri06/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ My LeetCode
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/GuiRodri06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/GuiRodri06/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3295-report-spam-message](https://github.com/GuiRodri06/LeetCode/tree/master/3295-report-spam-message) |
 | [3429-special-array-i](https://github.com/GuiRodri06/LeetCode/tree/master/3429-special-array-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Backtracking
@@ -59,6 +61,7 @@ My LeetCode
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/GuiRodri06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/GuiRodri06/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3295-report-spam-message](https://github.com/GuiRodri06/LeetCode/tree/master/3295-report-spam-message) |
 | [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
