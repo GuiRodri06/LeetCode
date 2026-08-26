@@ -17,6 +17,7 @@ My LeetCode
 | [2812-find-the-maximum-achievable-number](https://github.com/GuiRodri06/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GuiRodri06/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3663-find-the-least-frequent-digit](https://github.com/GuiRodri06/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3959-check-good-integer](https://github.com/GuiRodri06/LeetCode/tree/master/3959-check-good-integer) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ My LeetCode
 | [1806-count-of-matches-in-tournament](https://github.com/GuiRodri06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/GuiRodri06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GuiRodri06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3959-check-good-integer](https://github.com/GuiRodri06/LeetCode/tree/master/3959-check-good-integer) |
 ## Sorting
 |  |
 | ------- |
