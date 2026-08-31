@@ -37,6 +37,7 @@ My LeetCode
 | [0001-two-sum](https://github.com/GuiRodri06/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/GuiRodri06/LeetCode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/GuiRodri06/LeetCode/tree/master/0136-single-number) |
+| [0896-monotonic-array](https://github.com/GuiRodri06/LeetCode/tree/master/0896-monotonic-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GuiRodri06/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GuiRodri06/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/GuiRodri06/LeetCode/tree/master/1603-running-sum-of-1d-array) |
