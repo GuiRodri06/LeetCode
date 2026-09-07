@@ -67,6 +67,7 @@ Repositório destinado ao armazenamento e organização das minhas resoluções 
 | 3379 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | ![Easy](https://img.shields.io/badge/-Easy-00B8A3?style=flat-square) | `String` | [Código](./3379-score-of-a-string) |
 | 3429 | [Special Array I](https://leetcode.com/problems/special-array-i/) | ![Easy](https://img.shields.io/badge/-Easy-00B8A3?style=flat-square) | `Array` | [Código](./3429-special-array-i) |
 | 3663 | [Find the Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | ![Easy](https://img.shields.io/badge/-Easy-00B8A3?style=flat-square) | `Math`, `Array`, `Hash Table` | [Código](./3663-find-the-least-frequent-digit) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/) | ![Easy](https://img.shields.io/badge/-Easy-00B8A3?style=flat-square) | `Mid Level`, `Math`, `Weekly Contest 493` | [Código](./3870-count-commas-in-range) |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | ![Easy](https://img.shields.io/badge/-Easy-00B8A3?style=flat-square) | `Math`, `Simulation` | [Código](./3959-check-good-integer) |
 
 ---
